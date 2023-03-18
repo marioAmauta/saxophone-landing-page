@@ -111,6 +111,7 @@ body {
 
 #header-img {
   height: 2rem;
+  width: 2rem;
 }
 
 #header h1 {
@@ -165,7 +166,9 @@ main {
 
 .form-title {
   text-align: center;
-  padding: 0.5rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin: 1rem 0;
 }
 
 #email {
